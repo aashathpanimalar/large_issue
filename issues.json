@@ -1,0 +1,30 @@
+[{
+  "title": "High Severity Issue 1",
+  "description": "Description for high severity issue 1.",
+  "labels": ["high"]
+},
+{
+  "title": "High Severity Issue 2",
+  "description": "Description for high severity issue 2.",
+  "labels": ["high"]
+},
+{
+  "title": "High Severity Issue 3",
+  "description": "Description for high severity issue 3.",
+  "labels": ["high"]
+},
+{
+  "title": "Medium Severity Issue 4",
+  "description": "Description for medium severity issue 4.",
+  "labels": ["medium"]
+},
+...
+  "title": "Low Severity Issue 999",
+  "description": "Description for low severity issue 999.",
+  "labels": ["low"]
+},
+{
+  "title": "Low Severity Issue 1000",
+  "description": "Description for low severity issue 1000.",
+  "labels": ["low"]
+}]
