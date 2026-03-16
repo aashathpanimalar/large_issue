@@ -1,0 +1,28 @@
+[  
+    {  
+        "title": "The component did not re-render after props changed",  
+        "description": "An issue where React components do not update correctly.",  
+        "labels": ["high", "React"]  
+    },  
+    {  
+        "title": "v-model doesn't work with array of objects",  
+        "description": "The v-model binding fails with an array of objects in Vue.js.",  
+        "labels": ["high", "Vue.js"]  
+    },  
+    {  
+        "title": "fs.promises doesn't preserve flags from fs.open",  
+        "description": "An issue in Node.js where file system promises fail to maintain opening flags.",  
+        "labels": ["high", "Node.js"]  
+    },  
+    {  
+        "title": "Dashboard page takes a long time to load",  
+        "description": "This issue describes the performance problem on the dashboard page.",  
+        "labels": ["medium", "performance"]  
+    },  
+    {  
+        "title": "App crashes when invalid email is entered",  
+        "description": "The application crashes with an error when an invalid email is submitted.",  
+        "labels": ["medium", "bug"]  
+    },  
+    // ... More issues will be generated  
+]
