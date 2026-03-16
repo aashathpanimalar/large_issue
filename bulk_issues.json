@@ -16,7 +16,7 @@
     },  
     {  
         "title": "Dashboard page takes a long time to load",  
-        "description": "This issue describes the performance problem on the dashboard page.",  
+        "description": "corrected issue describes the performance problem on the dashboard page.",  
         "labels": ["medium", "performance"]  
     },  
     {  
