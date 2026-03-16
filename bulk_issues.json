@@ -10,7 +10,7 @@
         "labels": ["high", "Vue.js"]  
     },  
     {  
-        "title": "fs.promises doesn't preserve flags from fs.open",  
+        "title": "fs.promises doesn't preserve flags from fs.openen",  
         "description": "An issue in Node.js where file system promises fail to maintain opening flags.",  
         "labels": ["high", "Node.js"]  
     },  
